@@ -1,0 +1,7 @@
+# Unpinned core dependencies. After a working install, record exact versions with:
+#   pip freeze > requirements-lock.txt
+numpy
+scipy
+torch
+torchvision
+opacus
